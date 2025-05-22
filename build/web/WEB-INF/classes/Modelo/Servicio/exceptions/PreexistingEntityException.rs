@@ -1,1 +1,0 @@
-modelo.servicio.exceptions.PreexistingEntityException
