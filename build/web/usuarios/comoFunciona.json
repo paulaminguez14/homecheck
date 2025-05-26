@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "¿Qué es HomeCheck?",
+    "contenido": [
+      "HomeCheck es una plataforma web diseñada para facilitar el alquiler de viviendas a largo plazo. A diferencia de otras apps similares, HomeCheck se enfoca exclusivamente en la vivienda habitual, no en alojamientos vacacionales."
+    ]
+  },
+  {
+    "titulo": "¿Cómo funciona?",
+    "contenido": [
+      "Los propietarios pueden publicar sus pisos en la plataforma, incluyendo fotos, descripciones, ubicación y condiciones del alquiler. Por otro lado, los interesados pueden navegar por las viviendas disponibles y contactar directamente con los caseros a través de la aplicación."
+    ]
+  },
+  {
+    "titulo": "Un sistema de valoraciones único",
+    "contenido": [
+      "HomeCheck se diferencia por su sistema de valoraciones bidireccional: Los inquilinos pueden valorar tanto los pisos como a los caseros. Los propietarios pueden valorar a los inquilinos una vez finaliza el alquiler. Esto crea un entorno más seguro y transparente para todos los usuarios, fomentando relaciones de confianza y ayudando a tomar decisiones mejor informadas."
+    ]
+  },
+  {
+    "titulo": "Tu hogar, con confianza",
+    "contenido": [
+      "En HomeCheck creemos que alquilar debe ser una experiencia segura y confiable para todos. Por eso, nuestro sistema y comunidad trabajan para que sientas que tu próximo hogar es un lugar con garantías y tranquilidad."
+    ]
+  }
+]
